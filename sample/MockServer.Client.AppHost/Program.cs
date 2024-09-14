@@ -1,4 +1,4 @@
-using Aspire.Hosting.MockServer;
+using MockServer.Aspire.Hosting;
 using MockServer.Client.AppHost;
 
 var builder = DistributedApplication.CreateBuilder(args);

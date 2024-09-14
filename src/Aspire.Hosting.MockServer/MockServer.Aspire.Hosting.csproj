@@ -11,7 +11,16 @@ https://www.mock-server.com/</Description>
     <PackageProjectUrl>https://github.com/fabiojfl16/Aspire.Hosting.MockServer</PackageProjectUrl>
     <PackageTags>Aspire Hosting MockServer mock api</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageId>MockServer.Aspire.Hosting</PackageId>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Aspire.Hosting" Version="8.2.0" />

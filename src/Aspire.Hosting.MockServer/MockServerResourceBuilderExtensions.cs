@@ -1,7 +1,8 @@
-﻿using Aspire.Hosting.ApplicationModel;
+﻿using Aspire.Hosting;
+using Aspire.Hosting.ApplicationModel;
 using Aspire.Hosting.Lifecycle;
 
-namespace Aspire.Hosting.MockServer;
+namespace MockServer.Aspire.Hosting;
 
 public static class MockServerResourceBuilderExtensions
 {

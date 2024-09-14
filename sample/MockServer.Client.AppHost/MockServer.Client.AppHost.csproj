@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Aspire.Hosting.MockServer\Aspire.Hosting.MockServer.csproj" IsAspireProjectResource="false" />
+    <ProjectReference Include="..\..\src\Aspire.Hosting.MockServer\MockServer.Aspire.Hosting.csproj" IsAspireProjectResource="false" />
     <ProjectReference Include="..\MockServer.Client.ApiService\MockServer.Client.ApiService.csproj" />
     <ProjectReference Include="..\MockServer.Client.Web\MockServer.Client.Web.csproj" />
   </ItemGroup>

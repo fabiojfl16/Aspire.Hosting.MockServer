@@ -2,7 +2,7 @@
 using Aspire.Hosting.Lifecycle;
 using System.Text;
 
-namespace Aspire.Hosting.MockServer;
+namespace MockServer.Aspire.Hosting;
 
 internal class MockServerConfigHook : IDistributedApplicationLifecycleHook
 {

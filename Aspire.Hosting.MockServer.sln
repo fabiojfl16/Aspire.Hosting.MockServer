@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{84BA49
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockServer.Client.AppHost", "sample\MockServer.Client.AppHost\MockServer.Client.AppHost.csproj", "{0E7E42A2-2199-465E-87AC-279D806F63CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aspire.Hosting.MockServer", "src\Aspire.Hosting.MockServer\Aspire.Hosting.MockServer.csproj", "{4CD42DCE-85AD-4B9D-A40D-3B043FDB7282}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockServer.Aspire.Hosting", "src\Aspire.Hosting.MockServer\MockServer.Aspire.Hosting.csproj", "{4CD42DCE-85AD-4B9D-A40D-3B043FDB7282}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MockServer.Client.ServiceDefaults", "sample\MockServer.Client.ServiceDefaults\MockServer.Client.ServiceDefaults.csproj", "{F9063A1E-8786-4C5C-B599-A11DD5DFC0C5}"
 EndProject
